@@ -1,0 +1,8 @@
+git+git://github.com/tweepy/tweepy@master#egg=tweepy
+beautifulsoup4
+requests
+praw
+grpcio
+grpcio-tools
+googleapis-common-protos
+selenium
